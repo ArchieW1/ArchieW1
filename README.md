@@ -1,3 +1,5 @@
+![Visitor Count](https://hits.sh/github.com/ArchieW1/ArchieW1.svg?style=flat-square)
+
 ### Hi there 👋
 ## <b>Thunderstore Downloads</b>
 [![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Archie/YoutubeBoomBox?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/lethal-company/p/Archie/YoutubeBoomBox/)
